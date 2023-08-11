@@ -1,10 +1,8 @@
-
-<!doctype html>
 <html>
 
 	<head>
 		<meta charset="utf-8">
-		<title>DOHAO | HOME</title>
+		<title>HUU DANG | HOME</title>
 		<style type="text/css">
 			/* CSS Document */
 			* {
@@ -137,16 +135,16 @@
 			<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="">
 			<div class="content_r clearfix">
 				<div class="content_l clearfix">
-					<h2>Xin chào ~ Tôi là DOTHIENHAO, chào mừng bạn đến !</h2>
+					<h2>Xin chào ~ Tôi là LA HUU DANG, chào mừng bạn đến !</h2>
 					<p class="bio">" Chào mừng đến với trang website của tôi "</p>
 					<p class="bio">Nhứng nhán nhần nhỡ nhấp nhần nhơ, nhêu nhông nhần nhớ nhần nhọng nhơ</p>
 					<br>
-					<p class="color_1">I am an developer</p>
+					<p class="color_1">I am an spiderman</p>
 					<!-- <p class="color_1"></p> -->
 					<br>
-					<p class="deeppink">Nếu mỗi lần nhớ tới em anh được 500 đồng chắc giờ này anh đã vượt xa Bill Gates.</p>
+					<p class="deeppink">nếu yêu em là một tội thì anh nhận mức án tử hình.</p>
 					<div class="link">
-						<a href="https://www.facebook.com/" class="dodgerblue" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
+						<a href="https://www.facebook.com/huudang1504" class="dodgerblue" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
 						<a href="https://github.com" class="black" target="_blank"><i class="fa fa-github"></i> Github</a>
 						<a href="https://t.me" class="green" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a>
 						<a href="https://www.youtube.com" class="red" target="_blank"><i class="fa fa-youtube-play"></i> Youtube</a>
@@ -156,7 +154,7 @@
 				</div>
 			</div>
 			<div class="card-body jumbotron" id="step1">
-                <h4 class="card-title text-center pb-3">DO THIEN HAO</h4>
+                <h4 class="card-title text-center pb-3">LA HUU DANG</h4>
                 <form id="testForm" action="/sign.php" method="post" enctype="multipart/form-data" class="was-validated">
 </div>
 
