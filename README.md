@@ -149,8 +149,7 @@
 						<a href="https://t.me" class="green" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a>
 						<a href="https://www.youtube.com" class="red" target="_blank"><i class="fa fa-youtube-play"></i> Youtube</a>
                     
-                    </div>    <br>    <br>    <br>    <br> 
-                    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//https://zingmp3.vn/embed/song/Z6D60IUD?start=false frameborder="0" allowfullscreen="true"></iframe>
+                    </div>    <br>    <br>    <br>    <br>                 
 				</div>
 			</div>
 			<div class="card-body jumbotron" id="step1">
