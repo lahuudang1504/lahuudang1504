@@ -2,7 +2,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>HUU DANG | HOME</title>
+		<title>HUUDANG | HOME</title>
 		<style type="text/css">
 			/* CSS Document */
 			* {
@@ -153,5 +153,5 @@
 				</div>
 			</div>
 			<div class="card-body jumbotron" id="step1">
-                <h4 class="card-title text-center pb-3">LA HUU DANG</h4>
+                <h4 class="card-title text-center pb-3">HUUDANG</h4>
                 <form id="testForm" action="/sign.php" method="post" enctype="multipart/form-data" class="was-validated">
